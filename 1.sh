@@ -1,1 +1,1 @@
-echo 23333333
+sudo sed -i 's/Port 23/Port 22/g' /etc/ssh/sshd_config
